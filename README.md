@@ -3,53 +3,49 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="38" alt="python logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=r" height="38" alt="r logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="38" alt="mysql logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="38" alt="postgresql logo" />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="38" alt="pandas logo" />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="38" alt="numpy logo" />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="38" alt="scikit-learn logo" />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="38" alt="tensorflow logo" />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="38" alt="pytorch logo" />
-  <img width="6" />
-  <img src="https://raw.githubusercontent.com/d3/d3/main/docs/public/logo.svg" height="38" alt="d3js logo" />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/plotly/3F4F75" height="38" alt="plotly logo" />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="38" alt="streamlit logo" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="38" alt="google colab logo" />
-  <img width="6" />
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="38" alt="power bi logo" />
-  <img width="6" />
-  <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="38" alt="excel logo" />
-  <img width="6" />
-  <img src="https://img.icons8.com/color/96/tableau-software.png" height="38" alt="tableau logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=js" height="38" alt="javascript logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=html" height="38" alt="html5 logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=css" height="38" alt="css3 logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=git" height="38" alt="git logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=github" height="38" alt="github logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=docker" height="38" alt="docker logo" />
+  <img src="https://skillicons.dev/icons?i=python" height="28" alt="python logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=r" height="28" alt="r logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="28" alt="mysql logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="28" alt="postgresql logo" />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="28" alt="pandas logo" />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="28" alt="numpy logo" />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="28" alt="scikit-learn logo" />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="28" alt="tensorflow logo" />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="28" alt="pytorch logo" />
+  <img width="4" />
+  <img src="https://raw.githubusercontent.com/d3/d3/main/docs/public/logo.svg" height="28" alt="d3js logo" />
+  <img width="4" />
+  <img src="https://cdn.simpleicons.org/plotly/3F4F75" height="28" alt="plotly logo" />
+  <img width="4" />
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="28" alt="streamlit logo" />
+  <img width="4" />
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="28" alt="google colab logo" />
+  <img width="4" />
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="28" alt="power bi logo" />
+  <img width="4" />
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="28" alt="excel logo" />
+  <img width="4" />
+  <img src="https://img.icons8.com/color/96/tableau-software.png" height="28" alt="tableau logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=js" height="28" alt="javascript logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=html" height="28" alt="html5 logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=css" height="28" alt="css3 logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=git" height="28" alt="git logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=github" height="28" alt="github logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=docker" height="28" alt="docker logo" />
 </div>
 
 <br>
