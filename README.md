@@ -1,6 +1,6 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-###
+<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
@@ -17,21 +17,23 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="60" alt="scikit-learn logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="60" alt="tensorflow logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="60" alt="pytorch logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="60" alt="power bi logo" />
+  <img src="https://raw.githubusercontent.com/d3/d3/main/docs/public/logo.svg" height="60" alt="d3js logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/plotly/3F4F75" height="60" alt="plotly logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="60" alt="streamlit logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/d3dotjs/F9A03C" height="60" alt="d3 logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="60" alt="excel logo" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="60" alt="google colab logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="60" alt="power bi logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="60" alt="excel logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/96/tableau-software.png" height="60" alt="tableau logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
   <img width="12" />
@@ -46,29 +48,20 @@
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
 </div>
 
-###
+<br>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <a href="https://www.linkedin.com/in/sudeepvadlamudi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <img width="10" />
+  <a href="https://www.instagram.com/sai_sudeep.v/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
 </div>
 
-###
+<br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=YOUR_USERNAME&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=Sai-Sudeep-Vadlamudi&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph" />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
-</picture>
-
-###
