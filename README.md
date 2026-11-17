@@ -2,7 +2,6 @@
 
 <br>
 
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python" height="26" alt="python logo" />
   <img width="3" />
